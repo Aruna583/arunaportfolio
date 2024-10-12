@@ -1,0 +1,25 @@
+[
+    {
+      "title": "Book Hub (Goodreads Clone)",
+      "imageSrc": "projects/bookhub_logo.png",
+      "description": "Implemented responsive Goodreads Clone where users can log in and see a list of books, bookshelves like all shelves (books sorted by rating).",
+      "skills": ["HTML", "CSS", "JS", "Bootstrap", "React"],
+      "demo": "https://arubookhub.ccbp.tech/",
+      "source": "https://github.com/Aruna583/bookhub-reactproject"
+    },
+    {
+        "title": "Food Munch",
+        "imageSrc": "projects/foodmunch.png",
+        "description": "Discover the world of food with this responsive website that showcases a comprehensive list of food items.",
+        "skills": ["HTML", "CSS", "Bootstrap"],
+        "demo": "https://aruna1foodmunch.ccbp.tech/"
+      },
+      {
+        "title": "Todos Application",
+        "imageSrc": "projects/todo_logo.png",
+        "description": "A task management solution, designed to make life easier.Seamless CRUD operations through JavaScript event listeners and dynamic UI updates.",
+        "skills": ["HTML", "CSS", "Bootstrap"],
+        "demo": "https://arunatodos.ccbp.tech/"
+      }
+  ]
+  

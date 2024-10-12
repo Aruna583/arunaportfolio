@@ -1,0 +1,23 @@
+[
+    {
+      "role": "Associate Software Engineer",
+      "organisation": "Talview",
+      "startDate": "Sep, 2023",
+      "endDate": "Jan, 2024",
+      "experiences": ["Worked on Assessment Engine", 
+      "Designed the Mca, McQ, Video, Live, code, CodeParir Forms", 
+      "Constructed the Assign Reviewer and ReviewQuestion functionalities tailored for Subject Matter Experts (SMEs),  leveraging Redux-saga to manage state and facilitate smooth interactions within the system. Exclusively used React, Redux-saga to handle application life-cycle processes."
+      ]
+    },
+    {
+      "role": "Associate Software Engineer",
+      "organisation": "Talview",
+      "startDate": "Oct, 2023",
+      "endDate": "Sep, 2023",
+      "experiences": ["Worked on Candidate Container Web", 
+      "Worked on componets creation, storybook writing, test case writing. Lerning the technologies",
+      "Implemented CSS and styled web pages using CSS framework Tailwind.",
+     "Making application responsive and browser compatible. Implementing REST API calls."
+    ]
+    } 
+  ]

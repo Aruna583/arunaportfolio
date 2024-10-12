@@ -1,0 +1,51 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+        "title": "Tailwind CSS",
+        "imageSrc": "skills/Tailwind_css_log.png"
+      },
+    {
+        "title": "Bootsrap",
+        "imageSrc": "skills/bootsrap_logo.png"
+      },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "GraphQL",
+      "imageSrc": "skills/graphQl.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    },
+    {
+        "title": "Python",
+        "imageSrc": "skills/py_logo.png"
+    },
+    {
+        "title": "Javascript",
+        "imageSrc": "skills/javascript_logo.png"
+    },
+    {
+        "title": "Redux",
+        "imageSrc": "skills/redux_logo.png"
+    },
+    {
+        "title": "Sqlite",
+        "imageSrc": "skills/sqlite_logo.png"
+    }
+  ]
+  
